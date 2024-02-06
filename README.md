@@ -13,7 +13,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <b><a target="_blank">Hey! I'm Wrik</a></b>
+        <b><a target="_blank">Hey! I'm Wrik 🇮🇳 🇸🇬 🇨🇦 </a></b>
 </h3>
 
 <!-- Socials  -->
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wrik"/>
  </a>
 </p>
-<br />
 <br />
 
 <!-- About Section -->
@@ -53,7 +52,7 @@
 
 
 
-
+<!-- Github Stats -->
 <p align="left">
   <a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
