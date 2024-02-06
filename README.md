@@ -13,7 +13,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <b><a target="_blank">Wrik</a></b>
+        <b><a target="_blank">Hey! I'm Wrik</a></b>
 </h3>
 
 <!-- Socials  -->
