@@ -33,7 +33,7 @@
   <!-- put spoken languages here, align right -->
   <!--https://www.flaticon.com/packs/countrys-flags-->
     <table align="right">
-    <tr><td><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/languages.png" width="25"> Languages</a></td></tr>
+    <tr><td><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/languages.png" width="25"> Languages</a></td></tr>
     <tr><td><a href="README.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/united-states.png" height="15"> English ★★★★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/india.png" height="15"> Hindi ★★★★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/france.png" height="15"> French ★★★☆☆</a></td></tr>
