@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<a href="https://komarev.com/ghpvc/?username=coolkidwrik">
+  <img align="right" src="https://komarev.com/ghpvc/?username=coolkidwrik&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank">Wrik</a></b>
+        </samp>
+</h3>
+
 <!--
 **coolkidwrik/coolkidwrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
