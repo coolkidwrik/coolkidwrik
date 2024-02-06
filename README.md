@@ -13,9 +13,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; I am
-                <b><a target="_blank">Wrik</a></b>
-        </samp>
+        <b><a target="_blank">Wrik</a></b>
 </h3>
 
 <!-- Socials  -->
