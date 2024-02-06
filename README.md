@@ -1,6 +1,15 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hi!</h1>
 
-<!-- Visitors  -->
+<!-- Github info -->
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=coolkidwrik" alt="milaan9"/>       
+    <!--<a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/coolkidwrik" alt="Repos"/></a>--> 
+    <!--<img src="https://badges.pufler.dev/years/coolkidwrik" alt="Active_Years"/>--> 
+    <a href="https://github.com/coolkidwrik/coolkidwrik" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/coolkidwrik" alt="commits"/>
+    <a href="https://github.com/coolkidwrik/coolkidwrik/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/coolkidwrik/coolkidwrik" /></a>
+    <a href="https://github.com/coolkidwrik?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/coolkidwrik?color=4C1&logo=github"></a>
+    <a href="https://github.com/coolkidwrik/coolkidwrik" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/coolkidwrik/coolkidwrik?label=Profile%20update&style=fflat-square"></a>
+</p> 
 
 <a href="https://komarev.com/ghpvc/?username=coolkidwrik">
   <img align="right" src="https://komarev.com/ghpvc/?username=coolkidwrik&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
