@@ -2,8 +2,8 @@
 
 <!-- Github info -->
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=coolkidwrik" alt="milaan9"/>       
-    <!--<a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/coolkidwrik" alt="Repos"/></a>--> 
+    <img src="https://komarev.com/ghpvc/?username=coolkidwrik" alt="coolkidwrik"/>       
+    <!--<a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/coolkidwrik" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/coolkidwrik" alt="Active_Years"/>--> 
     <a href="https://github.com/coolkidwrik/coolkidwrik" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/coolkidwrik" alt="commits"/>
     <a href="https://github.com/coolkidwrik/coolkidwrik/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/coolkidwrik/coolkidwrik" /></a>
@@ -25,20 +25,6 @@
  </a>
 </p>
 <br />
-<!--
-**coolkidwrik/coolkidwrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <br />
 
 <!-- About Section -->
