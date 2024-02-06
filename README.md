@@ -30,10 +30,18 @@
  # About me
  
 <p>
-  <!-- put languages here, align right -->
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: wriksen2003@gmail.com<br/><br/>
+  <!-- put spoken languages here, align right -->
+    <table align="right">
+    <tr><td><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/197484.svg" height="15"> English ★★★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/3909444.svg" height="15"> Hindi ★★★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/197571.svg" height="15"> French ★★★☆☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/197571.svg" height="15"> Spanish ★★☆☆☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/197571.svg" height="15"> Japanese ★★☆☆☆</a></td></tr>
+</table>
+ ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new things<br/><br/>
+ 📧 &emsp; Reach out to me anytime: wriksen2003@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/coolkidwrik/coolkidwrik/issues)
 
 </p>
