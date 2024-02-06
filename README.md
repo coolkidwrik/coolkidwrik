@@ -34,10 +34,10 @@
     <table align="right">
     <tr><td><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
     <tr><td><a href="README.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/united-states.png" height="15"> English ★★★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/3909444.svg" height="15"> Hindi ★★★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/197571.svg" height="15"> French ★★★☆☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/197571.svg" height="15"> Spanish ★★☆☆☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/197571.svg" height="15"> Japanese ★★☆☆☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/india.png" height="15"> Hindi ★★★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/france.png" height="15"> French ★★★☆☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/spain.png" height="15"> Spanish ★☆☆☆☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/japan.png" height="15"> Japanese ★☆☆☆☆</a></td></tr>
 </table>
  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new things<br/><br/>
