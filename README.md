@@ -11,10 +11,6 @@
     <a href="https://github.com/coolkidwrik/coolkidwrik" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/coolkidwrik/coolkidwrik?label=Profile%20update&style=fflat-square"></a>
 </p> 
 
-<a href="https://komarev.com/ghpvc/?username=coolkidwrik">
-  <img align="right" src="https://komarev.com/ghpvc/?username=coolkidwrik&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; I am
