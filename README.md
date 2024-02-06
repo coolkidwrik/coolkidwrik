@@ -11,6 +11,12 @@
         </samp>
 </h3>
 
+<p align="center">
+ <a href="https://www.linkedin.com/in/wrik-sen-2b7b30212/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wrik"/>
+ </a>
+</p>
+<br />
 <!--
 **coolkidwrik/coolkidwrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
