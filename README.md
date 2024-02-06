@@ -47,6 +47,19 @@ Here are some ideas to get you started:
 
 <br />
 
+<!-- List of Languages -->
+<p align="center">
+    <a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
+    <a href="https://github.com/milaan9?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
+    <a href="https://github.com/milaan9?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+</p>
+
+
+
+
+
 <p align="left">
   <a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
