@@ -1,17 +1,21 @@
 ### Hi there 👋
 
+<!-- Visitors  -->
 <a href="https://komarev.com/ghpvc/?username=coolkidwrik">
   <img align="right" src="https://komarev.com/ghpvc/?username=coolkidwrik&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; I am
                 <b><a target="_blank">Wrik</a></b>
         </samp>
 </h3>
 
+<!-- Socials  -->
 <p align="center">
+ <a href="https://github.com/coolkidwrik" target="_blank">
+   <img alt="GitHub" src="https://img.shields.io/badge/-@coolkidwrik-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/wrik-sen-2b7b30212/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wrik"/>
  </a>
