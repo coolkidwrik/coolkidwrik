@@ -37,7 +37,7 @@
     <tr><td><a href="README.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/united-states.png" height="15"> English ★★★★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/india.png" height="15"> Hindi ★★★★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/france.png" height="15"> French ★★★☆☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/spain.png" height="15"> Spanish ★☆☆☆☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/spain.png" height="15"> Spanish ★★☆☆☆</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/japan.png" height="15"> Japanese ★☆☆☆☆</a></td></tr>
 </table>
  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
