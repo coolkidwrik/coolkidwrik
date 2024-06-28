@@ -41,21 +41,42 @@
     <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/japan.png" height="15"> Japanese ★☆☆☆☆</a></td></tr>
 </table>
  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new things<br/><br/>
- 📧 &emsp; Reach out to me anytime: wriksen2003@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/coolkidwrik/coolkidwrik/issues)
+ ❤️ &emsp; Love to writing code and learning new things <br/><br/>
+ 📧 &emsp; Reach out to me anytime: wriksen2003@gmail.com <br/><br/>
+ 💬 &emsp; Ask me about anything <a href = "https://github.com/coolkidwrik/coolkidwrik/issues">here</a>
 
 </p>
 
 <br />
 
-<!-- List of Languages -->
+<!-- Tech Stack -->
 <p align="center">
-    <a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+<!--     <a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/coolkidwrik?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
     <a href="https://github.com/coolkidwrik?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/coolkidwrik?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/coolkidwrik?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a> -->
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=python" target="_blank"><img alt="Code" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=java" target="_blank"><img alt="Code" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=javascript" target="_blank"><img alt="Code" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=typescript" target="_blank"><img alt="Code" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=c" target="_blank"><img alt="Code" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=c%2B%2B" target="_blank"><img alt="Code" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=php" target="_blank"><img alt="Code" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=swift" target="_blank"><img alt="Code" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=shell" target="_blank"><img alt="Code" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Code" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=r" target="_blank"><img alt="Code" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=html" target="_blank"><img alt="Code" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=css" target="_blank"><img alt="Code" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories&language=latex" target="_blank"><img alt="Code" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
+    <a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
+    
 </p>
 
 
