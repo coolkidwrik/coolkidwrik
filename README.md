@@ -93,7 +93,8 @@
 
 <p align="center">
   <a href="https://github.com/coolkidwrik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolkidwrik&theme=radical&border=7F3FBF&background=0D1117" alt="Wrik's GitHub streak"/>
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolkidwrik&theme=radical&border=7F3FBF&background=0D1117" alt="Wrik's GitHub streak"/> -->
+    <img src="https://github-readme-streak-stats.vercel.app/?user=coolkidwrik&theme=radical&border=7F3FBF&background=0D1117" alt="Wrik's GitHub streak"/>
   </a>
 </p>
 
