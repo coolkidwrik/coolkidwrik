@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=coolkidwrik" alt="coolkidwrik"/>       
     <!--<a href="https://github.com/coolkidwrik?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/coolkidwrik" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/coolkidwrik" alt="Active_Years"/>--> 
-    <a href="https://github.com/coolkidwrik/coolkidwrik" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/coolkidwrik" alt="commits"/>
+    <!-- <a href="https://github.com/coolkidwrik/coolkidwrik" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=coolkidwrik&include_all_commits=true&count_private=true" alt="commits"/></a> -->
     <a href="https://github.com/coolkidwrik/coolkidwrik/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/coolkidwrik/coolkidwrik" /></a>
     <a href="https://github.com/coolkidwrik?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/coolkidwrik?color=4C1&logo=github"></a>
     <a href="https://github.com/coolkidwrik/coolkidwrik" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/coolkidwrik/coolkidwrik?label=Profile%20update&style=fflat-square"></a>
@@ -94,7 +94,7 @@
 <p align="center">
   <a href="https://github.com/coolkidwrik">
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolkidwrik&theme=radical&border=7F3FBF&background=0D1117" alt="Wrik's GitHub streak"/> -->
-    <img src="https://github-readme-streak-stats.vercel.app/?user=coolkidwrik&theme=radical&border=7F3FBF&background=0D1117" alt="Wrik's GitHub streak"/>
+    <!-- <img src="https://github-readme-streak-stats.vercel.app/?user=coolkidwrik&theme=radical&border=7F3FBF&background=0D1117" alt="Wrik's GitHub streak"/> -->
   </a>
 </p>
 
