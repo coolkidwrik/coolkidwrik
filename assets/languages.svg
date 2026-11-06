@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220" role="img" aria-label="Top languages for coolkidwrik"><style>
+  .bg{fill:#ffffff;stroke:#d0d7de}
+  .title{fill:#1f2328;font:600 18px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif}
+  .label{fill:#656d76;font:400 14px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif}
+  .value{fill:#1f2328;font:600 14px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif}
+  .track{fill:#eaeef2}
+  @media (prefers-color-scheme: dark){
+    .bg{fill:#0d1117;stroke:#30363d}
+    .title,.value{fill:#e6edf3}
+    .label{fill:#8b949e}
+    .track{fill:#21262d}
+  }</style><rect class="bg" x="0.5" y="0.5" width="419" height="219" rx="8"/><text class="title" x="25" y="35">Top languages</text><text class="label" x="25" y="73">TypeScript</text><rect class="track" x="130" y="62" width="200" height="12" rx="6"/><rect x="130" y="62" width="104.04624277456647" height="12" rx="6" fill="#3178c6"/><text class="value" x="395" y="73" text-anchor="end">52.0%</text><text class="label" x="25" y="103">Python</text><rect class="track" x="130" y="92" width="200" height="12" rx="6"/><rect x="130" y="92" width="46.24277456647399" height="12" rx="6" fill="#3572A5"/><text class="value" x="395" y="103" text-anchor="end">23.1%</text><text class="label" x="25" y="133">CSS</text><rect class="track" x="130" y="122" width="200" height="12" rx="6"/><rect x="130" y="122" width="34.68208092485549" height="12" rx="6" fill="#663399"/><text class="value" x="395" y="133" text-anchor="end">17.3%</text><text class="label" x="25" y="163">HTML</text><rect class="track" x="130" y="152" width="200" height="12" rx="6"/><rect x="130" y="152" width="9.248554913294797" height="12" rx="6" fill="#e34c26"/><text class="value" x="395" y="163" text-anchor="end">4.6%</text><text class="label" x="25" y="193">JavaScript</text><rect class="track" x="130" y="182" width="200" height="12" rx="6"/><rect x="130" y="182" width="5.780346820809249" height="12" rx="6" fill="#f1e05a"/><text class="value" x="395" y="193" text-anchor="end">2.9%</text></svg>
