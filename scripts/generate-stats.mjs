@@ -108,10 +108,15 @@ function statsSvg(u) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="420" height="${h}" viewBox="0 0 420 ${h}" role="img" aria-label="GitHub stats for ${esc(username)}"><style>${STYLE}</style><rect class="bg" x="0.5" y="0.5" width="419" height="${h - 1}" rx="8"/><text class="title" x="25" y="35">${esc(username)}'s GitHub stats</text>${body}</svg>`;
 }
 
+// Languages to leave out of the "Top languages" card (case-insensitive).
+const EXCLUDED_LANGUAGES = ["Jupyter Notebook", "HTML"];
+
 function languagesSvg(u) {
   const totals = new Map();
+  const excluded = new Set(EXCLUDED_LANGUAGES.map((l) => l.toLowerCase()));
   for (const r of u.repositories.nodes)
     for (const e of r.languages.edges) {
+      if (excluded.has(e.node.name.toLowerCase())) continue;
       const t = totals.get(e.node.name) || { size: 0, color: e.node.color || "#8b949e" };
       t.size += e.size;
       totals.set(e.node.name, t);
