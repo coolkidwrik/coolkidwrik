@@ -41,8 +41,10 @@
     <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/spain.png" height="15"> Spanish ★★☆☆☆</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/coolkidwrik/coolkidwrik/blob/main/flags/japan.png" height="15"> Japanese ★☆☆☆☆</a></td></tr>
 </table>
- ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new things <br/><br/>
+ I am a driven and analytical computer science student with a strong work ethic and am deeply passionate about leveraging technology to address global challenges. I firmly believe the global economy is undergoing a profound digital transformation, and I am committed to contributing to this evolution through innovation in technology. My academic journey has fueled my expertise and enthusiasm for Machine Learning, Software Engineering, Computer Vision, and Computer Graphics, with a growing interest in the transformative potential of Quantum Computing. I aspire to explore how these fields can intersect to solve complex problems and shape the future of technology.
+ 
+ <br/>
+ <br/>
  📧 &emsp; Reach out to me anytime: wriksen2003@gmail.com <br/><br/>
  💬 &emsp; Ask me about anything <a href = "https://github.com/coolkidwrik/coolkidwrik/issues">here</a>
 
